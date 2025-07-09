@@ -1,0 +1,23 @@
+# Core libraries
+flask
+streamlit
+yfinance
+pandas
+requests
+openai
+
+
+numpy
+plotly
+SciPy
+
+
+# LangChain and agents
+langchain
+langchain-community
+phidata
+phi
+
+# Optional: Helpful utilities or dependencies (safe to include)
+numpy
+matplotlib
