@@ -383,7 +383,7 @@ import os
 
 #os.environ['OPENAI_API_KEY'] = openapi_key
 
-os.environ['OPENAI_API_KEY'] = api_key
+api_key = os.environ['OPENAI_API_KEY'] 
 
 #os.environ['OPENAI_API_KEY'] = st.secrets["openai"]["api_key"]
 
